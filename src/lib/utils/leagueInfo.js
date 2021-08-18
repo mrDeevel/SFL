@@ -8,7 +8,7 @@ export const dynasty = true; // true for dynasty leagues, false for redraft and 
 export const homepageText = `
   <p>The SFL was founded in 2018, it started off as 14 leagues of 12 teams, all competing to be the Best Manager of them all. We had 12 SFL leagues the main league and 2 BFL leagues the minors. The first year every one was placed in leagues based on their playoff finish</p>
   <p>Since our humble beginnings we have expanded to 24 leagues split into 4 tiers of 6 leagues each, still have the SFL the main league consisting of league A-R and the BFL consisting of league Z-U. We now use a more advanced way of sorting taking your wins, the percentage of your best line, and the playoff finnish. also the top 2 finishers of each tier in the SFL get placed into league A,B and C. and the top 2 finishers in the BFL get placed into league M the rest get sorted into the remaining leagues </p>
-  <p> we had over 450 members pass through the SFL most have stayed from the begining, it is truly one of the best communities of fantasy football players on sleeper. </p>
+  <p>We had over 450 members pass through the SFL most have stayed from the begining, it is truly one of the best communities of fantasy football players on sleeper. </p>
 `;
 
 /*   STEP 3   */
