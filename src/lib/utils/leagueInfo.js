@@ -1,4 +1,11 @@
  /*   STEP 1   */
+<div id="divAvatar">
+   <input type="text" placeholder="Sleeper ID" id="sleeperid">
+   <button>OK</button>
+</div>
+<script type="text/javascript" src="JS/jquery-3.6.0.js">
+   var sleeperId = document.getelementbyid('sleeperId').value
+</script>
 export const leagueID = "717032410939744256"; // your league ID
 export const leagueName = "Sleeper Fantasy Legion"; // your league name
 export const dues = 100; // (optional) used in template constitution page
